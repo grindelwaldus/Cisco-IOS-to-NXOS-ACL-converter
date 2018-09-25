@@ -73,3 +73,4 @@ for line in file_opened:
 			file_write.write(line)
 		
 file_opened.close()
+file_write.close()
